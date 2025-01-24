@@ -1,0 +1,105 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+#main-div{
+  min-width: 320px;
+  width: 50%;
+  display:flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 20px auto 0;
+  gap: 15px;
+}
+
+img{
+  width:50%;
+  margin: 20px auto;
+}
+
+h1{
+  text-align:center;
+}
+main{
+  width: 100%;
+  max-width: 500px; 
+  min-width: 320px; 
+}
+form{
+  display:flex;
+flex-direction: column;  background-color: black;
+width:80%;
+max-width: 256px;
+  justify-content: center;
+align-items:center;
+border-radius: 20px;
+height: 75vh;
+margin: 0 auto;
+}
+
+#circle{
+  height: 5%;
+  aspect-ratio: 1/1; background-color: white;
+  margin: 20px 0;
+  border-radius: 100%;
+}
+
+#screen{
+  aspect-ratio: 9/16;
+  height:80%;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+  gap: 10px;
+}
+
+label{
+  flex-shrink: 0;
+    color: black;
+    font-size: 24px;
+}
+
+input[type="tel"]{
+  flex-shrink: 0;
+  width: 100%;
+  font-size: 24px;
+  padding: 10px;
+  border-radius: 3vw;
+}
+
+#result-container {
+  width: 100%;
+  flex-grow: 1;
+  overflow-y: auto;
+}
+
+p{
+  font-size: 20px;
+  text-align: center;
+}
+
+.valid{
+  color: darkgreen;
+}
+
+.invalid{
+  color: darkred;
+}
+
+#buttons{
+  height: 10%;
+  width:100%;
+  display:flex;
+  justify-content: space-evenly;
+  margin: 10px 0 20px
+}
+
+button{
+  font-size: 20px;
+  padding: 8px 15px
+}
