@@ -7,25 +7,35 @@
 This repository showcases my journey through FreeCodeCamp's JavaScript Algorithms and Data Structures certification. It demonstrates my proficiency in JavaScript and problem-solving skills.
 
 ## 🗂️ Repository Structure
-- `exercises/`: Algorithm challenges and data structure implementations
-- `projects/`: Certification project solutions
+- `00_Certification_Projects/`: Certification project solutions
+- `01_Exercises/`: Algorithm challenges and data structure implementations
 
 ## 🚀 Certification Projects
 
 ### 001 Palindrome Checker
 **Description:** An algorithm to determine if a given string is a palindrome.
 
+**Reference Page:** [https://palindrome-checker.freecodecamp.rocks/](https://palindrome-checker.freecodecamp.rocks/)
+
 ### 002 Roman Numeral Converter
 **Description:** A function that converts numbers to Roman numerals.
+
+**Reference Page:** [https://roman-numeral-converter.freecodecamp.rocks/]([https://palindrome-checker.freecodecamp.rocks/](https://roman-numeral-converter.freecodecamp.rocks/)
 
 ### 003 Telephone Number Validator
 **Description:** A validator for US phone numbers using Regular Expressions.
 
+**Reference Page:** [https://telephone-number-validator.freecodecamp.rocks/](https://telephone-number-validator.freecodecamp.rocks/)
+
 ### 004 Cash Register
 **Description:** A cash register function that calculates change due.
 
+**Reference Page:** [https://cash-register.freecodecamp.rocks/](https://cash-register.freecodecamp.rocks/)
+
 ### 005 Pokémon Search App
 **Description:** An application to search and display Pokémon information.
+
+**Reference Page:** [https://pokemon-search-app.freecodecamp.rocks/](https://pokemon-search-app.freecodecamp.rocks/)
 
 ## 🧠 Key Concepts Learned
 - Basic JavaScript
@@ -47,10 +57,10 @@ This repository showcases my journey through FreeCodeCamp's JavaScript Algorithm
 Upon completion of all projects, I earned the JavaScript Algorithms and Data Structures Certification from FreeCodeCamp.
 
 ## 🔗 Links
-- [My FreeCodeCamp Profile](https://www.freecodecamp.org/your-username)
-- [Certification Verification](https://www.freecodecamp.org/certification/your-username/javascript-algorithms-and-data-structures)
+- [My FreeCodeCamp Profile](https://www.freecodecamp.org/HmgOfficial)
+- [Certification Verification](https://www.freecodecamp.org/certification/HmgOfficial/javascript-algorithms-and-data-structures-v8)
 
 ## 📫 Contact
 Feel free to reach out for collaborations or questions!
 
-[Your GitHub](https://github.com/your-username) | [Your LinkedIn](https://www.linkedin.com/in/your-profile)
+[LinkedIn](https://www.linkedin.com/in/your-profile) | [Portfolio](https://drinkparty.games/portfolio/index.html)
